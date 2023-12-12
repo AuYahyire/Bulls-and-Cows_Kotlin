@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Bulls and Cows (Kotlin)/*
+!/Bulls and Cows (Kotlin)/task/
+/Bulls and Cows (Kotlin)/task/*
+!/Bulls and Cows (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Avoiding NPEs. Null safety/Elvis throwing exceptions/out/
+/Topics/Avoiding NPEs. Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/BigInteger/Exbibytes/out/
+/Topics/BigInteger/Exbibytes/out/production/classes/
+/Topics/Nullable and non-nullable types/Line length/out/
+/Topics/Nullable and non-nullable types/Line length/out/production/classes/
